@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 94a7337fe5ce4a04f8af9b8c84597453
+timeCreated: 1512309546
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: saneserif
+  fontNames:
+  - saneserif
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

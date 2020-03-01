@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: de43b7ee954bee140a5804632c296253
+timeCreated: 1512309782
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SerpentisBlack
+  fontNames:
+  - SerpentisBlack
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
